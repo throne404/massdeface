@@ -18,7 +18,7 @@ banner = """
                                                                 
 Author : ./Throne404
 Date   : 2020-04-21
-Github : www.github.com/throne404
+Github : https://github.com/throne404
 Instagram : @throne404
                                                                                                                            
 """
